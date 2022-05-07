@@ -10,12 +10,12 @@ Transport for London wish to create a new bike system, this program will emulate
 
 ## Usage
 
-`command_to_start` (e.g. `rackup` or `rails s`)
+run`rackup` or `rails s` 
 Navigate to `http://localhost:4567/`
 
 ## Running tests
 
-`test_command` (e.g. `rspec`)
+run `rspec`
 
 ### Domain Model and Diagram
 
