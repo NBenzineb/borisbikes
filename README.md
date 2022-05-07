@@ -15,7 +15,7 @@ Navigate to `http://localhost:4567/`
 
 ## Running tests
 
-run `rspec`
+Run `rspec`
 
 ### Domain Model and Diagram
 
